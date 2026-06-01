@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sneha Pisal 👋
 
-<!--
-**pisalsneha46/pisalsneha46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS Business Analytics (STEM) @ George Washington University | GW School of Business Fellow**
 
-Here are some ideas to get you started:
+I'm a data and analytics professional with an engineering background, passionate about responsible AI, FinTech analytics, and strategy consulting. Based in Washington, DC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Featured Projects
+
+**[2024 HMDA Mortgage Approval Classifier Audit](https://github.com/pisalsneha46/rml_hw1)**
+XGBoost binary classifier on 8M+ real mortgage applications | Fairness audit using AIR/Four-Fifths Rule | SHAP + DiCE explainability | Deployed with conditional safeguards
+
+**[IBM AML Transaction Analysis](https://github.com/pisalsneha46/Anti-Money-Laundering-Transaction-Analysis-IBM-AML-Dataset)**
+End-to-end AML analytics pipeline | 12M+ synthetic transactions | Python, SQL, Unix, Star-Schema data modeling | Executive-style recommendations
+
+## 🛠️ Skills
+`Python` `SQL` `R` `Excel` `Machine Learning` `Responsible AI` `Data Visualization` `XGBoost` `SHAP`
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-snehapisal-blue)](https://linkedin.com/in/snehapisal)
+📧 sneha.pisal@gwu.edu
