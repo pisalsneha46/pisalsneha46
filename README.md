@@ -6,10 +6,10 @@ I'm a data and analytics professional with an engineering background, passionate
 
 ## 🔍 Featured Projects
 
-**[2024 HMDA Mortgage Approval Classifier Audit](https://github.com/pisalsneha46/rml_hw1)**
+**[2024 HMDA Mortgage Approval Classifier Audit](https://github.com/pisalsneha46/hmda-mortgage-fairness-audit)**
 XGBoost binary classifier on 8M+ real mortgage applications | Fairness audit using AIR/Four-Fifths Rule | SHAP + DiCE explainability | Deployed with conditional safeguards
 
-**[IBM AML Transaction Analysis](https://github.com/pisalsneha46/Anti-Money-Laundering-Transaction-Analysis-IBM-AML-Dataset)**
+**[IBM AML Transaction Analysis](https://github.com/pisalsneha46/aml-transaction-analysis)**
 End-to-end AML analytics pipeline | 12M+ synthetic transactions | Python, SQL, Unix, Star-Schema data modeling | Executive-style recommendations
 
 ## 🛠️ Skills
